@@ -1,22 +1,17 @@
 My Data Analyst Certificates obtained from Coursera
 
-<h1 style="color: #003366;">Google</h1>
+# <span style="color:#003366;">Google</span>
 
-![](/Google_DA/Google_Data_Analytics.pdf)
+- [Google Data Analytics Certificate](https://github.com/ShaguftaPathan/Certifications/blob/main/Google_DA/Google_Data_Analytics.pdf)
+- [Google Project Management Certificate](https://github.com/ShaguftaPathan/Certifications/blob/main/Google_PM/Google_Project_Management.pdf)
+- [Google Data Analytics with R](https://github.com/ShaguftaPathan/Certifications/blob/main/Google_DA/Google_Data_Analytics_R.pdf)
+- [Google Data Analytics Tableau](https://github.com/ShaguftaPathan/Certifications/blob/main/Google_DA/Google_Data_Analytics_Tableau.pdf)
 
-![](/Google_PM/Google_Project_Management.pdf)
+# <span style="color:#003366;">Microsoft</span>
 
-![](/Google_DA/Google_Data_Analytics_R.pdf)
+- [Microsoft Power BI Analyst](https://github.com/ShaguftaPathan/Certifications/blob/main/Microsoft/Microsoft_Power_BI_Analyst.pdf)
 
-![](/Google_DA/Google_Data_Analytics_Tableau.pdf)
+# <span style="color:#003366;">IBM</span>
 
-
-<h1 style="color: #003366;">Microsoft</h1>
-
-![](/Microsoft/Microsoft_Power_BI_Analyst.pdf)
-
-<h1 style="color: #003366;">IBM</h1>
-
-![](/IBM_DA/IBM_Data_Analyst.pdf)
-![](/IBM_DA/IBM_Python.pdf)
-![](/IBM_DA/IBM_Python.pdf)
+- [IBM Data Analyst Certificate](https://github.com/ShaguftaPathan/Certifications/blob/main/IBM_DA/IBM_Data_Analyst.pdf)
+- [IBM Python Certificate](https://github.com/ShaguftaPathan/Certifications/blob/main/IBM_DA/IBM_Python.pdf)
