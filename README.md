@@ -1,5 +1,7 @@
 My Data Analyst Certificates obtained from Coursera
 
+<a href= "https://shaguftapathan.github.io/Certifications/">Click Here!</1>
+
 # <span style="color:#003366;">Google</span>
 
 ![](/Google_DA/Google_Data_Anlytics.png)
