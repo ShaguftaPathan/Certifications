@@ -1,6 +1,6 @@
 My Data Analyst Certificates obtained from Coursera
 
-<a href= "https://shaguftapathan.github.io/Certifications/">Click Here!</1>
+<a href= "https://shaguftapathan.github.io/Certifications/">Click Here!</a>
 
 # <span style="color:#003366;">Google</span>
 
